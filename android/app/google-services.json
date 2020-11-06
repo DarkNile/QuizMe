@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "359113217536",
+    "firebase_url": "https://dtc-online-test-app.firebaseio.com",
+    "project_id": "dtc-online-test-app",
+    "storage_bucket": "dtc-online-test-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359113217536:android:9fc329da657ab9b0c3eae5",
+        "android_client_info": {
+          "package_name": "com.example.dtcapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "359113217536-j2m28e13f5h6ot7i1pr46mkto0ontfd8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLCKKHolUAmjZiTWWQN40oKKYfDI8CdXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "359113217536-j2m28e13f5h6ot7i1pr46mkto0ontfd8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

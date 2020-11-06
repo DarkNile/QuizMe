@@ -1,0 +1,168 @@
+[
+    {
+        "1": "Which company bought the popular video teleconferencing software 'Skype' ?",
+        "2": "Which web browser is provided default with a Windows machine ?",
+        "3": "Verification of a Login name and password is known as ___________ .",
+        "4": "\"Trend Micro\" is a ______________ .",
+        "5": "All of the following are examples of real security and privacy risks except.",
+        "6": "These are specially designed computers that perform complex calculations extremely rapidly",
+        "7": "Servers are computers that provide resources to other computers connected to",
+        "8": "The PC (Personal Computer) and the Apple Macintosh are examples of two different",
+        "9": "Word processing, spreadsheet and photo-editing are examples of",
+        "10": "The CPU and memory are located on the ______________ .",
+        "11": "It is also called the brain of the computer, is responsible for processing data.",
+        "12": "All of the following are examples of storage devices except",
+        "13": "The chip, used in computers, is made of ___________ .",
+        "14": "The components that process data are located in the ___________ .",
+        "15": "Apple Macintoshes (Macs) and PCs use different CPU's to process data and different",
+        "16": "It is any part of the computer that you can physically touch.",
+        "17": "It is approximately a million bytes.",
+        "18": "It is approximately one billion bytes.",
+        "19": "In the binary language, each letter of the alphabets, each number and each special character is made up of a unique combination of",
+        "20": "Computers use __________ language to process data ?"
+    },
+    {
+        "1": {
+            "a": "Google",
+            "b": "IBM",
+            "c": "Oracle",
+            "d": "Microsoft"
+        },
+        "2": {
+            "a": "Opera",
+            "b": "IE",
+            "c": "Chrome",
+            "d": "Mosaic"
+        },
+        "3": {
+            "a": "Configuration",
+            "b": "Accessibility",
+            "c": "Authentication",
+            "d": "Logging in"
+        },
+        "4": {
+            "a": "Virus program",
+            "b": "Antivirus program",
+            "c": "Application",
+            "d": "None of these"
+        },
+        "5": {
+            "a": "Hackers",
+            "b": "Spam",
+            "c": "Viruses",
+            "d": "Identify theft"
+        },
+        "6": {
+            "a": "Servers",
+            "b": "Super Computers",
+            "c": "Laptops",
+            "d": "Mainframes"
+        },
+        "7": {
+            "a": "Network",
+            "b": "Mainframe",
+            "c": "Super Computer",
+            "d": "Client"
+        },
+        "8": {
+            "a": "platforms",
+            "b": "applications",
+            "c": "programs",
+            "d": "storage devices"
+        },
+        "9": {
+            "a": "application software",
+            "b": "system software",
+            "c": "operating system software",
+            "d": "platform software"
+        },
+        "10": {
+            "a": "expansion board",
+            "b": "motherboard",
+            "c": "storage device",
+            "d": "output device"
+        },
+        "11": {
+            "a": "Motherboard",
+            "b": "Memory",
+            "c": "RAM",
+            "d": "Central Processing Unit (CPU)"
+        },
+        "12": {
+            "a": "hard disk drives",
+            "b": "printers",
+            "c": "floppy disk drives",
+            "d": "CD drives"
+        },
+        "13": {
+            "a": "chromium",
+            "b": "iron oxide",
+            "c": "silica",
+            "d": "silicon"
+        },
+        "14": {
+            "a": "input devices",
+            "b": "output devices",
+            "c": "system unit",
+            "d": "storage component"
+        },
+        "15": {
+            "a": "languages",
+            "b": "methods",
+            "c": "operating system",
+            "d": "storage devices"
+        },
+        "16": {
+            "a": "Hardware",
+            "b": "Software",
+            "c": "A peripheral",
+            "d": "An application"
+        },
+        "17": {
+            "a": "Gigabyte",
+            "b": "Kilobyte",
+            "c": "Megabyte",
+            "d": "Terabyte"
+        },
+        "18": {
+            "a": "Kilobyte",
+            "b": "Bit",
+            "c": "Gigabyte",
+            "d": "Megabyte"
+        },
+        "19": {
+            "a": "eight bytes",
+            "b": "eight kilobytes",
+            "c": "eight characters",
+            "d": "eight bits"
+        },
+        "20": {
+            "a": "Processing",
+            "b": "Kilobyte",
+            "c": "Binary",
+            "d": "Representational"
+        }
+    },
+    {
+        "1": "Microsoft",
+        "2": "IE",
+        "3": "Authentication",
+        "4": "Antivirus program",
+        "5": "Spam",
+        "6": "Super Computers",
+        "7": "Network",
+        "8": "platforms",
+        "9": "application software",
+        "10": "motherboard",
+        "11": "Central Processing Unit (CPU)",
+        "12": "printers",
+        "13": "silicon",
+        "14": "system unit",
+        "15": "operating system",
+        "16": "Hardware",
+        "17": "Megabyte",
+        "18": "Gigabyte",
+        "19": "eight bits",
+        "20": "Binary"
+    }
+]
